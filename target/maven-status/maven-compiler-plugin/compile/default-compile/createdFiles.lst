@@ -1,0 +1,15 @@
+com\hybridFW\generics\BaseTest.class
+com\hybridFW\pages\LoginPage.class
+com\hybridFW\scripts\TestAddNewTasks.class
+com\hybridFW\generics\IAutoConstant.class
+com\hybridFW\scripts\TestInvalidLoginPage.class
+com\hybridFW\scripts\TestVerifyIssueDate.class
+com\hybridFW\generics\WebDriverUtils.class
+com\hybridFW\pages\LicensesPage.class
+com\hybridFW\scripts\TestCreateProject.class
+com\hybridFW\pages\EnterTimeTrackPage.class
+com\hybridFW\scripts\TestCreateCustomer.class
+com\hybridFW\pages\TasksListPage.class
+com\hybridFW\generics\Futils.class
+com\hybridFW\scripts\TestValidLoginPage.class
+com\hybridFW\scripts\TestVerifyProductEdition.class
